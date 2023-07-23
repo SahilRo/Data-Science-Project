@@ -1,0 +1,9 @@
+BeautifulSoup
+pickle
+textblob
+matplotlib.pyplot
+gensim
+scipy.sparse
+nltk 
+sklearn.feature_extraction
+collections 
